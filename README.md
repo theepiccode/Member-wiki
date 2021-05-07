@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/company/theepiccode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://invite.theepiccode.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
   <a href="https://theepiccode.slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height=25></a>
+  <a href="mailto:team@theepiccode.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </div>
 
 <div align="center">
